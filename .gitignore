@@ -1,0 +1,7 @@
+build/
+out/
+minic
+*.o
+.vscode/
+*.html
+*.dot
